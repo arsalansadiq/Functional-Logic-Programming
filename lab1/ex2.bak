@@ -1,0 +1,5 @@
+#lang racket
+
+
+(define (g x)
+ + x 10)
